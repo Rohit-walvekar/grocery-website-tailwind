@@ -1,23 +1,23 @@
 # Grocery Website - Tailwind CSS
 
-## 📌 Overview
+## Overview
 
 This is a responsive grocery landing page built using Tailwind CSS.
 The project demonstrates modern UI design principles with a clean layout and responsive structure.
 
-## 🚀 Features
+## Features
 
 - Fully responsive layout
 - Modern Tailwind CSS styling
 - Clean and minimal design
 - Optimized for desktop and mobile
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - Tailwind CSS
 
-## 📂 Installation
+## Installation
 
 1. Clone the repository
 2. Install dependencies:
@@ -25,6 +25,6 @@ The project demonstrates modern UI design principles with a clean layout and res
 3. Run Tailwind CLI:
    npm run build
 
-## 👨‍💻 Author
+## Author
 
 Rohit Walvekar
